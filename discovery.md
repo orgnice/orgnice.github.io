@@ -39,7 +39,7 @@ This helps both sides decide if there’s a strong fit.
 
 <div class="cta-box">
 📅 <strong>Schedule a Discovery Call</strong><br>
-<a href="https://calendly.com/your-link">Click here to book</a>
+<a href="https://calendly.com/orgnicevijay/30min">Click here to book</a>
 </div>
 
 <p class="small">

@@ -6,7 +6,7 @@ markdown: kramdown
 
 author:
   name: orgnice
-  email: orgnicevijay@gmail.com
+  email: contact@orgnice.io
 
 udyam_registration: UDYAM-AP-24-0000687   # placeholder
 
@@ -21,7 +21,5 @@ nav_links:
     url: /case-studies
   - title: Discovery Call
     url: /discovery
-  - title: Contact
+  - title: Contact & Legal
     url: /contact
-  - title: Legal
-    url: /legal
