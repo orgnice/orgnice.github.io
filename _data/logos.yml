@@ -1,0 +1,11 @@
+- name: Intuit
+  image: /assets/images/logos/intuit.png
+
+- name: TurboTax
+  image: /assets/images/logos/turbotax.png
+
+- name: Pandora
+  image: /assets/images/logos/pandora.png
+
+- name: Leslie's Poolmart
+  image: /assets/images/logos/leslies.png

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/assets/style.css">
+
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ site.description }}">
+    {{ site.head }}
+  </head>
+
+  <body>
+    {% include header.html %}
+
+    {% if page.title == "Home" %}
+        {% include founders.html %}
+        {% include logos.html %}
+    {% endif %}
+
+    <main class="page-content" style="max-width: 860px; margin: 40px auto; padding: 0 20px;">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>

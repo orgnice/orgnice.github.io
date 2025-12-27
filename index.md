@@ -1,12 +1,25 @@
----
-layout: default
-title: Home
----
 
 ---
 layout: default
 title: Home
 ---
+
+## What I Do
+
+I help businesses turn **data, marketing spend, and complexity** into **clear decisions and measurable growth**.
+
+My work sits at the intersection of:
+- AI & Data Science
+- Marketing Measurement
+- Business Strategy
+
+No hype. No black-box promises. Only what works in the real world.
+
+<div class="cta-box">
+📅 <strong><a href="/discovery">Book a Discovery Call</a></strong><br>
+Let’s evaluate your problem before jumping into solutions.
+</div>
+
 
 # Turn Marketing Spend into Measurable Growth
 

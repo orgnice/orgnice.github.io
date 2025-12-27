@@ -1,0 +1,22 @@
+- name: Vijay
+  role: Founder & Principal Consultant
+  image: /assets/images/intro.png
+  highlight: >
+    Empowering Indian businesses with AI & Data Science innovations.
+  quote: >
+    “If analytics doesn’t change decisions, it’s just expensive reporting. My job isn’t to impress with models — it’s to make decisions obvious.”
+  credentials:
+    - 10+ years across Data Science & Engineering
+    - Marketing Measurement & ROI Specialist
+    - Trusted by Intuit, TurboTax, Pandora, Leslie’s Poolmart
+
+- name: Shiva
+  role: Co-Founder & Technology Lead
+  image: /assets/images/intro.png
+  highlight: >
+    Building scalable systems that balance speed and correctness.
+  quote: >
+    Systems fail not because of scale, but because of unclear assumptions.
+  credentials:
+    - Distributed systems & ML platforms
+    - Cloud-native architecture

@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 ---
 layout: default
@@ -23,3 +19,5 @@ My focus is simple:
 > Analytics should reduce confusion—not create new jargon.
 
 I’ve led data science teams, built end-to-end systems, and partnered closely with marketing and leadership teams to turn insights into action.
+
+{% include advisors.html %}

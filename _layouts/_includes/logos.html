@@ -1,0 +1,13 @@
+<section style="margin: 60px 0; text-align: center;">
+  <p class="small">Trusted by teams and brands including</p>
+
+  <div style="display: flex; justify-content: center; gap: 32px; flex-wrap: wrap; margin-top: 20px;">
+    {% for logo in site.data.logos %}
+      <img 
+        src="{{ logo.image }}" 
+        alt="{{ logo.name }}" 
+        style="height: 36px; opacity: 0.75;"
+      >
+    {% endfor %}
+  </div>
+</section>

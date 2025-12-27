@@ -1,0 +1,15 @@
+<header style="border-bottom: 1px solid #eee; padding: 16px 0;">
+  <nav style="max-width: 860px; margin: auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center;">
+    
+    <strong>{{ site.title }}</strong>
+
+    <div>
+      {% for link in site.nav_links %}
+        <a href="{{ link.url }}" style="margin-left: 16px; text-decoration: none;">
+          {{ link.title }}
+        </a>
+      {% endfor %}
+    </div>
+
+  </nav>
+</header>
