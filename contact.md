@@ -4,6 +4,7 @@ title: Contact
 ---
 
 # Get in Touch
+{: .section-header}
 
 If you’re serious about improving how you measure and grow revenue:
 
@@ -16,6 +17,7 @@ All conversations are handled with strict confidentiality.
 ---
 
 ## Legal & Compliance
+{: .section-header}
 
 ### Disclaimer
 The information provided on this website is for general informational purposes only and does not constitute professional, financial, or legal advice.

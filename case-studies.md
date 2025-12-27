@@ -4,6 +4,7 @@ title: Case Studies
 ---
 
 # Case Studies & Experience
+{: .section-header}
 
 Below are representative examples of the kind of impact We’ve delivered.  
 (Shared in a non-confidential, high-level manner.)
@@ -11,6 +12,7 @@ Below are representative examples of the kind of impact We’ve delivered.
 ---
 
 ## AI & Data Science for Global Brands
+{: .section-header}
 
 ### Brands Worked With
 
@@ -26,6 +28,7 @@ Below are representative examples of the kind of impact We’ve delivered.
 ---
 
 ## Case Study 1: Marketing Measurement Transformation
+{: .section-header}
 
 **Problem**  
 Marketing teams were relying on conflicting ROAS numbers across platforms, leading to poor budget decisions.
@@ -43,6 +46,7 @@ Marketing teams were relying on conflicting ROAS numbers across platforms, leadi
 ---
 
 ## Case Study 2: Scaling Data Science for Growth Teams
+{: .section-header}
 
 **Problem**  
 Rapid growth created data chaos — dashboards everywhere, trust nowhere.
@@ -60,6 +64,7 @@ Rapid growth created data chaos — dashboards everywhere, trust nowhere.
 ---
 
 ## Case Study 3: AI-Driven Business Insights
+{: .section-header}
 
 **Problem**  
 Businesses wanted AI solutions but lacked clarity on *where* AI actually adds value.

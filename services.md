@@ -4,32 +4,31 @@ title: Services
 ---
 
 # Services
+{: .section-header}
 
-  ### Marketing Mix Modeling
-  {: .section-header }
+### Marketing Mix Modeling
+{: .section-header}
 
-<div class="split-section">
-  MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors. It is most useful when attribution data is incomplete or biased.
-  {: .section-content}
+MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors. It is most useful when attribution data is incomplete or biased.
+{: .section-content}
 
-  **Outcome**
-  {: .section-content}
+**Outcome**
+{: .section-content}
 
-  - Build statistically sound MMMs
-  - Control for seasonality & macro effects
-  - Simulate budget reallocation scenarios
-  {: .section-content}
+- Build statistically sound MMMs
+- Control for seasonality & macro effects
+- Simulate budget reallocation scenarios
+{: .section-content}
 
-  **Why It Matters**
-  {: .section-content}
+**Why It Matters**
+{: .section-content}
 
-  MMM helps leadership teams answer budget questions with confidence rather than intuition.
-  {: .section-content}
+MMM helps leadership teams answer budget questions with confidence rather than intuition.
+{: .section-content}
 
-  📊 MMM Visualization Placeholder
-  {: .section-image}
-  
-</div>
+📊 MMM Visualization Placeholder
+{: .section-image}
+
 ---
 
 <div class="section-header">
@@ -40,26 +39,28 @@ title: Services
 
 <div class="split-section reverse">
 
-  <div class="section-image">
-  🧪 Lift Test Experiment Placeholder
-  </div>
+<div class="section-image">
+🧪 Lift Test Experiment Placeholder
+</div>
 
-  <div class="section-content" markdown="1">
+<div class="section-content" markdown="1">
 
-  Incrementality testing isolates the true causal impact of marketing actions.
+Incrementality testing isolates the true causal impact of marketing actions.
 
-  ### Why It Matters
-  - Separates correlation from causation
-  - Prevents over-attribution
-  - Improves confidence in scaling decisions
+### Why It Matters
+- Separates correlation from causation
+- Prevents over-attribution
+- Improves confidence in scaling decisions
 
-  </div>
+</div>
 
 </div>
 
 ---
 
 ## ROI Forecasting & Budget Optimization
+{: .section-header}
+
 Spend smarter, not louder.
 
 **Outcome**
@@ -70,6 +71,8 @@ Spend smarter, not louder.
 ---
 
 ## Multi-Touch Attribution (MTA)
+{: .section-header}
+
 Custom attribution designed around **real user journeys**, not defaults.
 
 **Outcome**
@@ -80,6 +83,8 @@ Custom attribution designed around **real user journeys**, not defaults.
 ---
 
 ## Custom Dashboards
+{: .section-header}
+
 Built for **decisions**, not vanity.
 
 **Outcome**
@@ -90,6 +95,8 @@ Built for **decisions**, not vanity.
 ---
 
 ## Data Science Consulting
+{: .section-header}
+
 Hands-on expertise, not generic advice.
 
 **Outcome**

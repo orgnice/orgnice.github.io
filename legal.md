@@ -4,6 +4,7 @@ title: Legal
 ---
 
 # Legal & Compliance
+{: .section-header}
 
 ## Disclaimer
 All information provided on this website is for general informational purposes only and does not constitute professional or financial advice.

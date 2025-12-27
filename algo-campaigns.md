@@ -4,17 +4,17 @@ title: Algo Campaigns
 ---
 
 # Algorithmic Campaign Design
+{: .section-header}
 
 Large-scale campaigns are optimization problems under uncertainty.
 
 This work applies experimentation, causal inference, and measurement science to campaign systems — not ideology, messaging, or policy.
 
-<span class="small">
 Non-partisan · Data-driven · Compliance-first
-</span>
 
-
+---
 ## Algorithmic Campaign Design & Optimization
+{: .section-header}
 
 Modern political campaigns, public figures, and influencer-led movements operate in highly noisy digital environments.
 
@@ -25,6 +25,7 @@ We help campaign teams design **algorithm-driven strategies** that answer one co
 ---
 
 ## What This Service Covers
+{: .section-header}
 
 - Algorithmic audience segmentation & clustering  
 - Channel allocation & media mix optimization  
@@ -38,6 +39,7 @@ This is **measurement science applied to campaigns**.
 ---
 
 ## Typical Engagement Scenarios
+{: .section-header}
 
 ### Political Campaigns
 - Data-driven voter outreach optimization  
@@ -57,6 +59,7 @@ This is **measurement science applied to campaigns**.
 ---
 
 ## Measurement Philosophy
+{: .section-header}
 
 Most campaigns fail analytically because they confuse:
 
@@ -73,6 +76,7 @@ My approach prioritizes:
 ---
 
 ## Ethical & Compliance Framework
+{: .section-header}
 
 - No ideological alignment or advocacy  
 - No message creation or persuasion scripting  

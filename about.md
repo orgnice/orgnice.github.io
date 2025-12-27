@@ -4,6 +4,7 @@ title: About
 ---
 
 # About Us
+{: .section-header}
 
 We have 20+ years of experience across:
 

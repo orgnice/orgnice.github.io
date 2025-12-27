@@ -4,6 +4,7 @@ title: Discovery Call
 ---
 
 # Discovery & Proposal Process
+{: .section-header}
 
 Before jumping into solutions, I prefer a **structured discovery conversation**.
 
@@ -12,6 +13,7 @@ This helps both sides decide if there’s a strong fit.
 ---
 
 ## What We Cover in the Discovery Call
+{: .section-header}
 
 - Your business model & growth stage
 - Current analytics & data setup
@@ -21,6 +23,7 @@ This helps both sides decide if there’s a strong fit.
 ---
 
 ## What You Get
+{: .section-header}
 
 - Clear problem framing
 - Honest feasibility assessment
