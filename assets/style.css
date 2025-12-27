@@ -1,6 +1,6 @@
 /* ========================================*/
 /* Kill all auto page titles (Minima-safe) */
-.page-content h1:first-of-type,
+.page-content, /* h1:first-of-type */
 .post-header,
 .page-heading,
 header.page-header {

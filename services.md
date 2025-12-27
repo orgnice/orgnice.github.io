@@ -15,16 +15,6 @@ When attribution breaks, MMM brings clarity.
 
 ---
 
-## Multi-Touch Attribution (MTA)
-Custom attribution designed around **real user journeys**, not defaults.
-
-**Outcome**
-- Fair credit distribution
-- Reduced bias
-- Better channel evaluation
-
----
-
 ## Incrementality & Lift Studies
 Because correlation ≠ causation.
 
@@ -42,6 +32,16 @@ Spend smarter, not louder.
 - Marginal ROI curves
 - Saturation insights
 - Scenario planning
+
+---
+
+## Multi-Touch Attribution (MTA)
+Custom attribution designed around **real user journeys**, not defaults.
+
+**Outcome**
+- Fair credit distribution
+- Reduced bias
+- Better channel evaluation
 
 ---
 

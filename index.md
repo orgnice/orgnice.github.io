@@ -4,9 +4,8 @@ title: Home
 ---
 
 # Turn Marketing Spend into Measurable Growth
-
 ### Advanced Marketing Analytics, Attribution & ROI Measurement  
-*For founders and marketing teams who want clarity—not dashboard noise.*
+*For founders and marketing teams who want <b> clarity — not dashboard noise </b>.*
 
 ---
 
@@ -34,11 +33,6 @@ You're in the right place.
     <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
     <img src="/assets/images/logos/pandora.png" alt="Pandora">
     <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart">
-    <!-- duplicate for loop -->
-    <!-- <img src="/assets/images/logos/intuit.png" alt="Intuit">
-    <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
-    <img src="/assets/images/logos/pandora.png" alt="Pandora">
-    <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart"> -->
   </div>
 </div>
 
@@ -66,5 +60,4 @@ You're in the right place.
 
 ---
 
- ## [Let’s Talk](discovery.md)
-*A short conversation is often enough to see if we’re a good fit.*
+### *A short conversation is often enough to see if we’re a good fit.* [Let’s Talk](discovery.md)
