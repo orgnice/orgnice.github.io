@@ -12,8 +12,11 @@ title: Home
 - *We also design algorithm-driven campaign analytics for public figures, influencer-led initiatives, and large-scale outreach programs — with strict neutrality and compliance.*
 
 ---
+<div class="section-header">
 
 ## What We Do
+
+</div>
 
 We help businesses **understand what truly drives revenue** by building rigorous, decision-grade analytics systems.
 
@@ -42,7 +45,11 @@ You're in the right place.
 
 ---
 
+<div class="section-header">
+
 ## Services at a Glance
+
+</div>
 
 - Marketing Mix Modeling (MMM)
 - Incrementality & Lift Studies
@@ -55,7 +62,11 @@ You're in the right place.
 
 ---
 
+<div class="section-header">
+
 ## Why This Approach Works
+
+</div>
 
 - Business-first, not tool-first  
 - Statistically sound, not trendy  

@@ -4,50 +4,18 @@
     <a href="/" class="site-brand">
       <img
         src="{{ site.logo }}"
-        alt="Orgnice logo"
+        alt="orgnice logo"
         class="site-logo"
       >
     </a>
 
-    <!-- <div>
+    <div>
       {% for link in site.nav_links %}
         <a href="{{ link.url }}" style="margin-left: 16px; text-decoration: none;">
           {{ link.title }}
         </a>
       {% endfor %}
-    </div> -->
-
-    <ul class="nav-list">
-
-      <li class="nav-item">
-        <a href="/">Home</a>
-      </li>
-
-      <li class="nav-item dropdown">
-        <a href="/services">Services</a>
-
-        <ul class="dropdown-menu">
-          {% for item in site.services_menu %}
-            <li>
-              <a href="{{ item.url }}">{{ item.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      </li>
-
-      <li class="nav-item">
-        <a href="/case-studies">Case Studies</a>
-      </li>
-
-      <li class="nav-item">
-        <a href="/algo-campaigns">Algo Campaigns</a>
-      </li>
-
-      <li class="nav-item">
-        <a href="/contact">Contact</a>
-      </li>
-
-    </ul>
+    </div>
 
   </nav>
 </header>

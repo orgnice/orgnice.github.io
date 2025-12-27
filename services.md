@@ -5,36 +5,62 @@ title: Services
 
 # Services
 
-<div class="sticky-layout">
-  <a id="mmm"></a>
-  <div class="sticky-side">
-    <strong>Marketing Mix Modeling</strong><br><br>
-    MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors.<br><br>
-    It is most useful when attribution data is incomplete or biased.
-  </div>
-
-  ### What We Do
+<div class="section-header">
   
-  <div class="sticky-main" markdown="1">
-  - Build statistically sound MMMs
-  - Control for seasonality & macro effects
-  - Simulate budget reallocation scenarios
-  </div>
-
-  ### Why It Matters
-  MMM helps leadership teams answer budget questions with confidence rather than intuition.
+  ### Marketing Mix Modeling
 
 </div>
 
+<div class="split-section">
 
-## Incrementality & Lift Studies
-<a id="lift"></a>
-Because correlation ≠ causation.
+  <div class="section-content" markdown="1">
 
-**Outcome**
-- True incremental impact
-- Experiment-backed decisions
-- Proof of effectiveness
+    MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors. It is most useful when attribution data is incomplete or biased.
+
+    **Outcome**
+    
+    - Build statistically sound MMMs
+    - Control for seasonality & macro effects
+    - Simulate budget reallocation scenarios
+
+    **Why It Matters**
+
+    MMM helps leadership teams answer budget questions with confidence rather than intuition.
+
+  </div>
+
+  <div class="section-image">
+  📊 MMM Visualization Placeholder
+  </div>
+
+</div>
+
+---
+
+<div class="section-header">
+
+## Incrementality & Lift Testing
+
+</div>
+
+<div class="split-section reverse">
+
+  <div class="section-image">
+  🧪 Lift Test Experiment Placeholder
+  </div>
+
+  <div class="section-content" markdown="1">
+
+  Incrementality testing isolates the true causal impact of marketing actions.
+
+  ### Why It Matters
+  - Separates correlation from causation
+  - Prevents over-attribution
+  - Improves confidence in scaling decisions
+
+  </div>
+
+</div>
 
 ---
 
@@ -49,7 +75,6 @@ Spend smarter, not louder.
 ---
 
 ## Multi-Touch Attribution (MTA)
-<a id="attribution"></a>
 Custom attribution designed around **real user journeys**, not defaults.
 
 **Outcome**
