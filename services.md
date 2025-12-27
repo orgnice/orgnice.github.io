@@ -3,8 +3,6 @@ layout: default
 title: Services
 ---
 
-<div class="analytics-panel">
-
 # Services
 
 ## Marketing Mix Modeling (MMM)
@@ -64,5 +62,3 @@ Hands-on expertise, not generic advice.
 - Stronger internal teams
 - Better model confidence
 - Sustainable analytics systems
-
-</div>

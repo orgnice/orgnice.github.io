@@ -53,7 +53,7 @@
   position: sticky;
   top: 0;
   z-index: 1000;
-  background: #ffffff;
+  background: #ffffffb4;
 
   border-bottom: 1px solid #eee;
   padding: 14px 0;
@@ -182,7 +182,7 @@ h3 {
 
 .page-content {
   padding-top: 40px;
-  background: #ffffff;
+  background: #ffffffb4;
   border-radius: 12px;
   padding: 40px 32px;
 }
