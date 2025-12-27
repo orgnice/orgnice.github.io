@@ -1,0 +1,12 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+a {
+  color: #1a73e8;
+}
