@@ -4,23 +4,6 @@ layout: default
 title: Home
 ---
 
-## What I Do
-
-I help businesses turn **data, marketing spend, and complexity** into **clear decisions and measurable growth**.
-
-My work sits at the intersection of:
-- AI & Data Science
-- Marketing Measurement
-- Business Strategy
-
-No hype. No black-box promises. Only what works in the real world.
-
-<div class="cta-box">
-📅 <strong><a href="/discovery">Book a Discovery Call</a></strong><br>
-Let’s evaluate your problem before jumping into solutions.
-</div>
-
-
 # Turn Marketing Spend into Measurable Growth
 
 ### Advanced Marketing Analytics, Attribution & ROI Measurement  
@@ -28,9 +11,9 @@ Let’s evaluate your problem before jumping into solutions.
 
 ---
 
-## What I Do
+## What We Do
 
-I help businesses **understand what truly drives revenue** by building rigorous, decision-grade analytics systems.
+We help businesses **understand what truly drives revenue** by building rigorous, decision-grade analytics systems.
 
 If you’re spending heavily on marketing but still asking:
 
@@ -38,7 +21,28 @@ If you’re spending heavily on marketing but still asking:
 - Are we scaling profitably or just scaling spend?
 - Can we trust our ROAS numbers?
 
-You’re in the right place.
+You're in the right place.
+
+👉 [Know Us](about.md)
+
+---
+
+### Brands Worked With
+
+<div class="logos-marquee">
+  <div class="logos-track">
+    <img src="/assets/images/logos/intuit.png" alt="Intuit">
+    <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
+    <img src="/assets/images/logos/pandora.png" alt="Pandora">
+    <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart">
+
+    <!-- duplicate for seamless loop -->
+    <img src="/assets/images/logos/intuit.png" alt="Intuit">
+    <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
+    <img src="/assets/images/logos/pandora.png" alt="Pandora">
+    <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart">
+  </div>
+</div>
 
 ---
 
@@ -64,10 +68,5 @@ You’re in the right place.
 
 ---
 
-## Let’s Talk
-
-📩 Email: yourname@email.com  
-📅 Schedule a Call: Calendly link  
-🔗 LinkedIn: Your profile
-
+ ## [Let’s Talk](discovery.md)
 *A short conversation is often enough to see if we’re a good fit.*

@@ -14,10 +14,20 @@ Below are representative examples of the kind of impact I’ve delivered.
 ## AI & Data Science for Global Brands
 
 ### Brands Worked With
-- Intuit
-- TurboTax
-- Pandora
-- Leslie’s Poolmart
+
+<div class="logos-marquee">
+  <div class="logos-track">
+    <img src="/assets/images/logos/intuit.png" alt="Intuit">
+    <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
+    <img src="/assets/images/logos/pandora.png" alt="Pandora">
+    <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart">
+    <!-- duplicate for seamless loop -->
+    <img src="/assets/images/logos/intuit.png" alt="Intuit">
+    <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
+    <img src="/assets/images/logos/pandora.png" alt="Pandora">
+    <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart">
+  </div>
+</div>
 
 ---
 

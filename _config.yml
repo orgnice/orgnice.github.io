@@ -1,5 +1,6 @@
-title: orgnice - Marketing Analytics & Measurement Consulting
-description: Attribution, Incrementality & ROI Measurement
+title: orgnice
+logo: /assets/images/orgnice-logo-simple.png
+description: Marketing Analytics & Measurement Consulting
 theme: minima
 markdown: kramdown
 
@@ -12,14 +13,14 @@ udyam_registration: UDYAM-AP-24-0000687   # placeholder
 nav_links:
   - title: Home
     url: /
+  - title: About
+    url: /about
   - title: Services
     url: /services
   - title: Case Studies
     url: /case-studies
   - title: Discovery Call
     url: /discovery
-  - title: About
-    url: /about
   - title: Contact
     url: /contact
   - title: Legal

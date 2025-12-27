@@ -30,7 +30,7 @@ This helps both sides decide if there’s a strong fit.
 
 ---
 
-## What This Is *Not*
+## What This Is
 
 - Not a sales pitch
 - Not a generic demo

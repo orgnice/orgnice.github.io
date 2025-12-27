@@ -1,3 +1,41 @@
+/* Header branding */
+.site-brand {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.site-logo {
+  max-height: 42px;      /* Desktop */
+  height: auto;
+  width: auto;
+  margin-right: 10px;
+}
+
+.site-title {
+  font-weight: 600;
+  color: #000;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .site-logo {
+    max-height: 36px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .site-logo {
+    max-height: 30px;
+  }
+
+  .site-title {
+    font-size: 0.95rem;
+  }
+}
+
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   line-height: 1.75;
