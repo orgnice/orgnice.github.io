@@ -5,15 +5,28 @@ title: Services
 
 # Services
 
-## Marketing Mix Modeling (MMM)
-When attribution breaks, MMM brings clarity.
+<div class="sticky-layout">
 
-**Outcome**
-- True channel contribution
-- Long-term impact visibility
-- Budget reallocation confidence
+<div class="sticky-side">
+<strong>Marketing Mix Modeling</strong><br><br>
+MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors.<br><br>
+It is most useful when attribution data is incomplete or biased.
+</div>
 
----
+<div class="sticky-main">
+
+### What We Do
+- Build statistically sound MMMs
+- Control for seasonality & macro effects
+- Simulate budget reallocation scenarios
+
+### Why It Matters
+MMM helps leadership teams answer budget questions with confidence rather than intuition.
+
+</div>
+
+</div>
+
 
 ## Incrementality & Lift Studies
 Because correlation ≠ causation.
