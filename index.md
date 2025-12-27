@@ -41,9 +41,9 @@ You're in the right place.
 ## Services at a Glance
 
 - Marketing Mix Modeling (MMM)
-- Multi-Touch Attribution (MTA)
 - Incrementality & Lift Studies
 - ROI Forecasting & Budget Optimization
+- Multi-Touch Attribution (MTA)
 - Custom Analytics Dashboards
 - Data Science Consulting for Marketing Teams
 

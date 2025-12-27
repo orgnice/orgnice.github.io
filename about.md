@@ -11,7 +11,7 @@ We have 20+ years of experience across:
 - Data Science & Statistical Modeling
 - Marketing Analytics & Measurement Consulting
 
-we specialize in helping teams **cut through conflicting metrics** and build analytics they can trust.
+we specialized in helping teams **cut through conflicting metrics** and build analytics they can trust.
 
 Our focus is simple:
 > Analytics should reduce confusion—not create new jargon.

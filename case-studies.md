@@ -5,7 +5,7 @@ title: Case Studies
 
 # Case Studies & Experience
 
-Below are representative examples of the kind of impact I’ve delivered.  
+Below are representative examples of the kind of impact We’ve delivered.  
 (Shared in a non-confidential, high-level manner.)
 
 ---

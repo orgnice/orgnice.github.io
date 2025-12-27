@@ -29,14 +29,6 @@ This helps both sides decide if there’s a strong fit.
 
 ---
 
-## What This Is
-
-- Not a sales pitch
-- Not a generic demo
-- Not a rushed call
-
----
-
 <div class="cta-box">
 📅 <strong>Schedule a Discovery Call</strong><br>
 <a href="https://calendly.com/orgnice/30min">Click here to book</a>
