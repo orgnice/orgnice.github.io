@@ -6,29 +6,30 @@ title: Services
 # Services
 
 <div class="sticky-layout">
+  {:#mmm}
+  <div class="sticky-side">
+    <strong>Marketing Mix Modeling</strong><br><br>
+    MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors.<br><br>
+    It is most useful when attribution data is incomplete or biased.
+  </div>
 
-<div class="sticky-side">
-<strong>Marketing Mix Modeling</strong><br><br>
-MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors.<br><br>
-It is most useful when attribution data is incomplete or biased.
-</div>
+  <div class="sticky-main" markdown="1">
 
-<div class="sticky-main">
+  ### What We Do
+  - Build statistically sound MMMs
+  - Control for seasonality & macro effects
+  - Simulate budget reallocation scenarios
 
-### What We Do
-- Build statistically sound MMMs
-- Control for seasonality & macro effects
-- Simulate budget reallocation scenarios
+  ### Why It Matters
+  MMM helps leadership teams answer budget questions with confidence rather than intuition.
 
-### Why It Matters
-MMM helps leadership teams answer budget questions with confidence rather than intuition.
-
-</div>
+  </div>
 
 </div>
 
 
 ## Incrementality & Lift Studies
+{:#lift}
 Because correlation ≠ causation.
 
 **Outcome**
@@ -49,6 +50,7 @@ Spend smarter, not louder.
 ---
 
 ## Multi-Touch Attribution (MTA)
+{:#attribution}
 Custom attribution designed around **real user journeys**, not defaults.
 
 **Outcome**
