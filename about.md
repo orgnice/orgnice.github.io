@@ -20,4 +20,4 @@ My focus is simple:
 
 I’ve led data science teams, built end-to-end systems, and partnered closely with marketing and leadership teams to turn insights into action.
 
-{% include advisors.html %}
+{% include /_layouts/_includes/advisors.html %}

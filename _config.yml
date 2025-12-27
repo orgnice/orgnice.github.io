@@ -14,18 +14,6 @@ nav_links:
     url: /
   - title: Services
     url: /services
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Legal
-    url: /legal
-
-nav_links:
-  - title: Home
-    url: /
-  - title: Services
-    url: /services
   - title: Case Studies
     url: /case-studies
   - title: Discovery Call
