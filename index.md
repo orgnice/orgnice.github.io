@@ -4,8 +4,12 @@ title: Home
 ---
 
 # Turn Marketing Spend into Measurable Growth
+
 ### Advanced Marketing Analytics, Attribution & ROI Measurement  
-*For founders and marketing teams who want clarity — not dashboard noise.*
+
+- *For founders and marketing teams who want clarity — not dashboard noise.*
+
+- *We also design algorithm-driven campaign analytics for public figures, influencer-led initiatives, and large-scale outreach programs — with strict neutrality and compliance.*
 
 ---
 

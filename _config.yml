@@ -25,3 +25,13 @@ nav_links:
     url: /discovery
   - title: Contact & Legal
     url: /contact
+
+services_menu:
+  - title: Marketing Mix Modeling (MMM)
+    url: /services#mmm
+  - title: Incrementality & Lift Testing
+    url: /services#lift
+  - title: Attribution & ROI Measurement
+    url: /services#attribution
+  - title: Campaign Analytics (Public & Influencer)
+    url: /campaign-analytics
