@@ -5,36 +5,31 @@ title: Services
 
 # Services
 
-<div class="section-header">
-  
   ### Marketing Mix Modeling
-
-</div>
+  {: .section-header }
 
 <div class="split-section">
+  MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors. It is most useful when attribution data is incomplete or biased.
+  {: .section-content}
 
-  <div class="section-content" markdown="1">
+  **Outcome**
+  {: .section-content}
 
-    MMM helps quantify the true impact of marketing channels by accounting for lag, saturation, and external factors. It is most useful when attribution data is incomplete or biased.
+  - Build statistically sound MMMs
+  - Control for seasonality & macro effects
+  - Simulate budget reallocation scenarios
+  {: .section-content}
 
-    **Outcome**
-    
-    - Build statistically sound MMMs
-    - Control for seasonality & macro effects
-    - Simulate budget reallocation scenarios
+  **Why It Matters**
+  {: .section-content}
 
-    **Why It Matters**
+  MMM helps leadership teams answer budget questions with confidence rather than intuition.
+  {: .section-content}
 
-    MMM helps leadership teams answer budget questions with confidence rather than intuition.
-
-  </div>
-
-  <div class="section-image">
   📊 MMM Visualization Placeholder
-  </div>
-
+  {: .section-image}
+  
 </div>
-
 ---
 
 <div class="section-header">

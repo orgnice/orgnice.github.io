@@ -3,24 +3,16 @@ layout: default
 title: Algo Campaigns
 ---
 
-<div class="sticky-layout">
-
-<div class="sticky-side">
-
-<strong>Algorithmic Campaign Design</strong><br><br>
+# Algorithmic Campaign Design
 
 Large-scale campaigns are optimization problems under uncertainty.
 
 This work applies experimentation, causal inference, and measurement science to campaign systems — not ideology, messaging, or policy.
 
-<br><br>
 <span class="small">
 Non-partisan · Data-driven · Compliance-first
 </span>
 
-</div>
-
-<div class="sticky-main narrative">
 
 ## Algorithmic Campaign Design & Optimization
 
@@ -102,6 +94,3 @@ This service focuses exclusively on analytics and optimization frameworks. Strat
 A short discovery call is required before any proposal.
 </div>
 
-</div>
-
-</div>

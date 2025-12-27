@@ -4,6 +4,7 @@ title: Home
 ---
 
 # Turn Marketing Spend into Measurable Growth
+{: .section-header }
 
 ### Advanced Marketing Analytics, Attribution & ROI Measurement  
 
@@ -12,11 +13,8 @@ title: Home
 - *We also design algorithm-driven campaign analytics for public figures, influencer-led initiatives, and large-scale outreach programs — with strict neutrality and compliance.*
 
 ---
-<div class="section-header">
-
 ## What We Do
-
-</div>
+{: .section-header }
 
 We help businesses **understand what truly drives revenue** by building rigorous, decision-grade analytics systems.
 
@@ -31,9 +29,8 @@ You're in the right place.
 👉 [Know Us](about.md)
 
 ---
-
 ### Brands Worked With
-
+{: .section-header }
 <div class="logos-marquee">
   <div class="logos-track">
     <img src="/assets/images/logos/intuit.png" alt="Intuit">
@@ -44,12 +41,8 @@ You're in the right place.
 </div>
 
 ---
-
-<div class="section-header">
-
 ## Services at a Glance
-
-</div>
+{: .section-header }
 
 - Marketing Mix Modeling (MMM)
 - Incrementality & Lift Studies
@@ -61,12 +54,8 @@ You're in the right place.
 👉 [View Services](services.md)
 
 ---
-
-<div class="section-header">
-
 ## Why This Approach Works
-
-</div>
+{: .section-header }
 
 - Business-first, not tool-first  
 - Statistically sound, not trendy  
@@ -74,5 +63,4 @@ You're in the right place.
 - Actionable outputs, not academic papers  
 
 ---
-
 ### *A short conversation is often enough to see if we’re a good fit.* [Let’s Talk](discovery.md)
