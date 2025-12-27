@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Case Studies
@@ -21,7 +20,7 @@ Below are representative examples of the kind of impact I’ve delivered.
     <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
     <img src="/assets/images/logos/pandora.png" alt="Pandora">
     <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart">
-    <!-- duplicate for seamless loop -->
+    <!-- duplicate for loop -->
     <img src="/assets/images/logos/intuit.png" alt="Intuit">
     <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
     <img src="/assets/images/logos/pandora.png" alt="Pandora">

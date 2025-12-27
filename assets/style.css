@@ -1,3 +1,54 @@
+/* ========================================*/
+/* Kill all auto page titles (Minima-safe) */
+.page-content h1:first-of-type,
+.post-header,
+.page-heading,
+header.page-header {
+  display: none !important;
+}
+
+/* ========================================*/
+/* ===== Logos Marquee ===== */
+
+.logos-marquee {
+  overflow: hidden;
+  width: 100%;
+}
+
+.logos-track {
+  display: flex;
+  gap: 48px;
+  width: max-content;
+  animation: marquee 28s linear infinite;
+}
+
+.logos-track img {
+  height: 34px;
+  width: auto;
+  filter: grayscale(100%);
+  opacity: 0.75;
+  transition: filter 0.3s ease, opacity 0.3s ease;
+}
+
+.logos-track img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+@media (max-width: 768px) {
+  .logos-track img {
+    height: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .logos-track img {
+    height: 24px;
+  }
+}
+
+/* ========================================*/
+
 /* Header branding */
 .site-brand {
   display: flex;
@@ -5,36 +56,29 @@
   text-decoration: none;
 }
 
+/* Wordmark logo (orgnice) */
 .site-logo {
-  max-height: 42px;      /* Desktop */
-  height: auto;
+  max-height: 40px;   /* desktop */
   width: auto;
-  margin-right: 10px;
-}
-
-.site-title {
-  font-weight: 600;
-  color: #000;
+  height: auto;
+  display: block;
 }
 
 /* Tablet */
 @media (max-width: 768px) {
   .site-logo {
-    max-height: 36px;
+    max-height: 34px;
   }
 }
 
 /* Mobile */
 @media (max-width: 480px) {
   .site-logo {
-    max-height: 30px;
-  }
-
-  .site-title {
-    font-size: 0.95rem;
+    max-height: 28px;
   }
 }
 
+/*==========================================*/
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
