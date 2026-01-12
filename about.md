@@ -21,10 +21,6 @@ We’ve led data science teams, built end-to-end systems, and partnered closely 
 
 ---
 
-{% include founders.html %}
-
----
-
 {% if site.data.advisors %}
   {% include advisors.html %}
 {% endif %}
