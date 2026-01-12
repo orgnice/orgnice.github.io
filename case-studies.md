@@ -14,16 +14,6 @@ Below are representative examples of the kind of impact We’ve delivered.
 ## AI & Data Science for Global Brands
 {: .section-header}
 
-### Brands Worked With
-
-<div class="logos-marquee">
-  <div class="logos-track">
-    <img src="/assets/images/logos/intuit.png" alt="Intuit">
-    <img src="/assets/images/logos/turbotax.png" alt="TurboTax">
-    <img src="/assets/images/logos/pandora.png" alt="Pandora">
-    <img src="/assets/images/logos/leslies.png" alt="Leslie’s Poolmart">
-  </div>
-</div>
 
 ---
 
