@@ -1,0 +1,19 @@
+- title: Marketing Mix Modeling (MMM)
+  desc: Quantify the true impact of channels accounting for lag and saturation.
+  url: /services#mmm
+  icon: "📊"
+
+- title: Incrementality & Lift
+  desc: Scientific testing to separate correlation from causation.
+  url: /services#lift
+  icon: "🧪"
+
+- title: ROI Forecasting
+  desc: Optimize budget allocation with marginal ROI curves.
+  url: /services#forecasting
+  icon: "📈"
+
+- title: Algo Campaigns
+  desc: Campaign analytics for public figures & influencer initiatives.
+  url: /algo-campaigns
+  icon: "🏛️"

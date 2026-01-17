@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<section class="hero-section">
+  <div class="wrapper">
+    <div class="hero-content">
+      <h1 class="hero-title">{{ page.hero_title }}</h1>
+      <p class="hero-subtitle">{{ page.hero_subtitle }}</p>
+      <div class="hero-actions">
+        <a href="/services" class="btn btn-outline">View Services</a>
+        <a href="/contact" class="btn btn-primary">Book Discovery Call</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="trust-section">
+  <div class="wrapper">
+    <p class="trust-label">Trusted by teams at</p>
+    {% include logos.html %}
+  </div>
+</section>
+
+<section class="value-prop-section">
+  <div class="wrapper split-layout">
+    <div class="text-block">
+      <h2>Why orgnice?</h2>
+      <p>We help businesses <strong>understand what truly drives revenue</strong> by building rigorous, decision-grade analytics systems.</p>
+      <ul class="check-list">
+        <li>Business-first, not tool-first</li>
+        <li>Statistically sound, not trendy</li>
+        <li>Transparent assumptions</li>
+        <li>Actionable outputs</li>
+      </ul>
+    </div>
+    <div class="highlight-box">
+      <h3>Common Questions We Solve</h3>
+      <ul>
+        <li>"Which channels actually work?"</li>
+        <li>"Are we scaling profitably or just scaling spend?"</li>
+        <li>"Can we trust our ROAS numbers?"</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="services-preview-section">
+  <div class="wrapper">
+    <div class="section-header-center">
+      <h2>Core Competencies</h2>
+      <p>Advanced Marketing Analytics, Attribution & ROI Measurement</p>
+    </div>
+    
+    <div class="services-grid">
+      {% for service in site.data.services_list %}
+      <a href="{{ service.url }}" class="service-card">
+        <div class="icon">{{ service.icon }}</div>
+        <h3>{{ service.title }}</h3>
+        <p>{{ service.desc }}</p>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="leadership-section">
+  <div class="wrapper">
+    {% include founders.html %}
+  </div>
+</section>
